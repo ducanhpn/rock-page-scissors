@@ -56,3 +56,11 @@ function playRound(playerSeclection, computerSelection){
     }
 
 }
+
+function game(){
+    for(let i=0; i<5; i++){
+        let playerChoice = prompt("Enter your choice: ");
+        let result = playRound(playerChoice,getComputerChoice());
+        console.log(result);
+    }
+}
