@@ -4,3 +4,8 @@ user input their choice
 a function give a random choice
 compare user input choice with computer choice
 print a result. 
+
+algorithm
+Paper > Rock 
+Rock > Scissors
+Scissors > Paper
